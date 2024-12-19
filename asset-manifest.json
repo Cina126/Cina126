@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DogsDictionary/static/css/main.b516948e.css",
+    "main.js": "/DogsDictionary/static/js/main.fbd6199a.js",
+    "index.html": "/DogsDictionary/index.html",
+    "main.b516948e.css.map": "/DogsDictionary/static/css/main.b516948e.css.map",
+    "main.fbd6199a.js.map": "/DogsDictionary/static/js/main.fbd6199a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b516948e.css",
+    "static/js/main.fbd6199a.js"
+  ]
+}
